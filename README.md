@@ -1,2 +1,2 @@
 # impacta-utils
-Uma simples API de exemplo com classes utilit√°rias para introdu√ß√£o ao assunto de bibliotecas (JAR) do curso de Java Programmer
+Uma simples API de exemplo com classes utilit·rias para introduÁ„o ao assunto de bibliotecas (JAR) do curso de Java Programmer

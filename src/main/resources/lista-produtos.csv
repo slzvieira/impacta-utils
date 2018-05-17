@@ -1,0 +1,152 @@
+1001;Achocolatado;Alimentos;6,19;400;G
+1005;Açúcar;Alimentos;2,39;1;Kg
+1008;Adoçante;Alimentos;3,99;100;ml
+1011;Arroz;Alimentos;4,39;1;Kg
+1014;Atum;Alimentos;7,75;170;g
+1016;Azeite;Alimentos;17,49;500;ml
+1019;Azeitona;Alimentos;6,54;200;g
+1022;Batata palha;Alimentos;5,53;140;g
+1027;Biscoito recheado;Alimentos;1,89;90;g
+1028;Bombom;Alimentos;14,9;236;g
+1030;Café;Alimentos;9,89;500;g
+1038;Catchup;Alimentos;4,53;390;g
+1042;Chá;Alimentos;3,99;18;Un
+1044;Champignon;Alimentos;15,25;180;g
+1048;Chocolate;Alimentos;23,9;500;g
+1056;Coco ralado;Alimentos;4,31;100;g
+1060;Creme de leite;Alimentos;2,39;200;g
+1063;Farinha de mandioca;Alimentos;4,45;500;g
+1066;Farinha de milho;Alimentos;2,31;500;g
+1070;Farinha de rosca;Alimentos;4,08;500;g
+1072;Farinha de trigo;Alimentos;4,99;1;Kg
+1074;Feijão;Alimentos;2,49;1;Kg
+1077;Fermento;Alimentos;2,89;100;g
+1078;Gelatina;Alimentos;0,97;30;g
+1080;Geleia;Alimentos;14,9;320;g
+1083;Leite condensado;Alimentos;3,48;395;g
+1086;Leite de coco;Alimentos;3,74;200;ml
+1089;Lentilha;Alimentos;7,99;500;g
+1090;Macarrão;Alimentos;5,89;500;g
+1092;Maionese;Alimentos;4,99;500;g
+1095;Molho;Alimentos;1,95;340;g
+1099;Mostarda;Alimentos;11,5;255;g
+1107;Polvilho;Alimentos;5,13;500;g
+1108;Sagu;Alimentos;10,75;500;g
+1109;Sal;Alimentos;2,09;1;Kg
+1113;Sal grosso;Alimentos;1,91;1;Kg
+1116;Salsicha;Alimentos;8,49;500;g
+1119;Sardinha;Alimentos;6,25;250;g
+1102;Água de coco;Bebidas;7,89;1;l
+1106;Água tônica;Bebidas;1,95;350;ml
+1110;Cerveja;Bebidas;2,99;350;ml
+1111;Champanhe;Bebidas;32,9;750;ml
+1115;Licor;Bebidas;115,9;700;ml
+1117;Refrigerante;Bebidas;7,29;2,5;l
+1118;Rum;Bebidas;32,9;980;ml
+1121;Suco;Bebidas;4,89;1;l
+1122;Vinho;Bebidas;29,9;750;ml
+1125;Vodca;Bebidas;37,9;998;ml
+1126;Uísque;Bebidas;198,9;1;l
+1301;Carne Bovina;Carnes;29;1;Kg
+1302;Carne de Frango;Carnes;15,79;1;Kg
+1305;Miúdos;Carnes;7,29;1;Kg
+1307;Peixe;Carnes;22,5;1;Kg
+1308;Carne de Porco;Carnes;35,5;1;Kg
+1401;Bacon;Frios;8,85;220;g
+1403;Chester;Frios;58,82;3,8;Kg
+1407;Gordura vegetal;Frios;6,19;500;g
+1409;Hambúrguer;Frios;7,99;672;g
+1411;Iogurte;Frios;1,79;180;g
+1412;Leite;Frios;2,79;1;l
+1414;Linguiça;Frios;11,9;500;g
+1415;Manteiga;Frios;8,39;200;g
+1418;Margarina;Frios;5,79;500;g
+1422;Mortadela;Frios;5,29;200;g
+1427;Patê;Frios;3,15;100;g
+1428;Peito de peru;Frios;8,99;200;g
+1429;Presunto;Frios;7,99;200;g
+1430;Queijo;Frios;20,74;490;g
+1433;Queijo ralado;Frios;3,43;50;g
+1436;Requeijão;Frios;5,95;200;g
+1437;Ricota;Frios;9,9;400;g
+1440;Salame;Frios;27,71;370;g
+2001;Abacate;Hortifrutti;8,5;1;Kg
+2004;Abacaxi;Hortifrutti;4,22;1;UN
+2006;Abobrinha;Hortifrutti;3,95;1;Kg
+2010;Agrião;Hortifrutti;4,69;170;g
+2011;Alface;Hortifrutti;1,29;1;UN
+2014;Alho;Hortifrutti;2,67;300;g
+2018;Banana;Hortifrutti;4,19;1;Kg
+2020;Batata;Hortifrutti;0,98;1;Kg
+2023;Berinjela;Hortifrutti;5,49;1;Kg
+2025;Beterraba;Hortifrutti;3,84;1;Kg
+2028;Brócolis;Hortifrutti;5,89;1;Kg
+2031;Cebola;Hortifrutti;1,58;1;Kg
+2032;Cenoura;Hortifrutti;2,56;1;Kg
+2033;Chuchu;Hortifrutti;1,42;1;Kg
+2036;Couve;Hortifrutti;4,45;180;g
+2038;Espinafre;Hortifrutti;5,79;170;g
+2040;Goiaba;Hortifrutti;7,47;1;Kg
+2044;Laranja;Hortifrutti;2,85;1;Kg
+2048;Maça;Hortifrutti;6,59;1;Kg
+2051;Mamão;Hortifrutti;7,98;1;UN
+2057;Melancia;Hortifrutti;12,77;1;UN
+2061;Melão;Hortifrutti;7,38;1;UN
+2062;Ovos;Hortifrutti;8,5;30;UN
+2064;Pêra;Hortifrutti;4,99;1;Kg
+2066;Pimentão;Hortifrutti;5,75;500;g
+2070;Repolho;Hortifrutti;3,98;1;UN
+2071;Rúcula;Hortifrutti;3,79;1;UN
+2077;Tomate;Hortifrutti;2,99;600;g
+2078;Uva;Hortifrutti;5,98;500;g
+2080;Vagem;Hortifrutti;8,59;300;g
+2086;Ervilha;Hortifrutti;1,99;200;g
+2088;Palmito;Hortifrutti;25,9;300;g
+2089;Milho;Hortifrutti;1,85;200;g
+2090;Pepino;Hortifrutti;3,99;1;Kg
+2304;Absorvente;Higiene;5,99;8;UN
+2308;Acetona;Higiene;7,82;200;ml
+2311;Algodão;Higiene;2,5;50;g
+2312;Antisséptico bucal;Higiene;11,25;250;ml
+2314;Aparelho de barbear;Higiene;9,35;2;UN
+2317;Condicionador;Higiene;11,22;200;ml
+2322;Cotonete;Higiene;3,49;75;UN
+2325;Creme de barbear;Higiene;6,19;65;g
+2327;Desodorante;Higiene;9,49;50;ml
+2328;Escova de dente;Higiene;14,5;2;UN
+2332;Fio-dental;Higiene;8,19;100;m
+2337;Fraldas;Higiene;26,53;40;UN
+2341;Gel;Higiene;18,9;250;ml
+2342;Hidratante;Higiene;10,25;200;ml
+2349;Lenço de papel;Higiene;3,51;50;UN
+2351;Lixa;Higiene;0,91;1;UN
+2352;Pente;Higiene;10,9;1;UN
+2356;Pinça;Higiene;3,75;1;UN
+2358;Preservativo;Higiene;10,25;6;UN
+2362;Sabonete;Higiene;1,85;90;g
+2366;Xampu;Higiene;18,75;350;ml
+2367;Talco;Higiene;12,9;100;g
+2404;Água sanitária;Limpeza;3,37;2;l
+2407;Álcool;Limpeza;8,6;1;l
+2408;Alvejante;Limpeza;11,55;1,5;l
+2411;Amaciante;Limpeza;9,79;500;ml
+2414;Desinfetante;Limpeza;3,03;500;ml
+2418;Detergente;Limpeza;1,47;500;ml
+2422;Esponja;Limpeza;1,36;1;UN
+2425;Guardanapos;Limpeza;3,37;50;UN
+2427;Inseticida;Limpeza;8,29;300;ml
+2428;Lava-roupas;Limpeza;26,73;4;l
+2429;Limpa-vidro;Limpeza;4,41;500;ml
+2433;Lustra-móveis;Limpeza;7,54;500;ml
+2435;Palito de dente;Limpeza;1,45;100;UN
+2441;Pano de prato;Limpeza;1,75;1;UN
+2444;Papel higiênico;Limpeza;21,97;16;UN
+2445;Purificador de ambientes;Limpeza;6,99;360;ml
+2447;Sabão em pó;Limpeza;5,69;1;Kg
+2448;Saco de lixo;Limpeza;35,5;15;UN
+2449;Toalha de papel;Limpeza;4,29;2;UN
+2450;Vassoura;Limpeza;11,5;1;UN
+2604;Fósforo;Outros;4,59;10;UN
+2606;Vela;Outros;5,95;8;UN
+2608;Pilha;Outros;23,8;4;UN
+2610;Carvão;Outros;10,9;3;Kg
