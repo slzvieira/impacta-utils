@@ -8,10 +8,10 @@ import org.junit.Test;
 
 public class SorteioUtilsTest {
 
-	@Test
-	public void test() {
-		int[] megasena = SorteioUtils.sortearMegasena();
-		System.out.println(Arrays.toString(megasena));
-		Assert.assertEquals(megasena.length, 6);
-	}
+    @Test
+    public void test() {
+        int[] megasena = SorteioUtils.sortearMegasena();
+        System.out.println(Arrays.toString(megasena));
+        Assert.assertEquals(megasena.length, 6);
+    }
 }
