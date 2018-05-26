@@ -29,10 +29,10 @@ import br.com.impacta.model.Unidade;
 public class CSVLoader {
 
     /** Caminho default do arquivo de cursos. */
-    private static final String LISTA_CURSOS_RESOURCE = "/resources/lista-cursos.csv";
+    private static final String LISTA_CURSOS_RESOURCE = "/lista-cursos.csv";
 
     /** Caminho default do arquivo de produtos. */
-    private static final String LISTA_PRODUTOS_RESOURCE = "/resources/lista-produtos.csv";
+    private static final String LISTA_PRODUTOS_RESOURCE = "/lista-produtos.csv";
 
     /**
      * Formato do preco dos produtos. Todos os precos contidos no arquivo CSV devem seguir este formato.

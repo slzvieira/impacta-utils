@@ -106,4 +106,11 @@ public class Curso {
     public void setCargaHoraria(int cargaHoraria) {
         this.cargaHoraria = cargaHoraria;
     }
+
+    public String toString() {
+        return String.format("[codigo=%d; categoria=\"%s\"; nome=\"%s\"; tipoCurso=\"%s\", cargaHoraria=%d]",
+            codigo, categoria, nome,
+            tipoCurso == null ? null : tipoCurso.getDescricao(),
+            cargaHoraria);
+    }
 }

@@ -30,7 +30,7 @@ import java.util.Properties;
  */
 public class Noticiario {
 
-	private static final String NOTICIARIO_PROPERTIES = "/resources/noticias.properties";
+	private static final String NOTICIARIO_PROPERTIES = "/noticias.properties";
 
     /** Lista de noticias a ser carregada durante a instanciacao desta classe. */
     private List<String> noticiaList = new ArrayList<String>();

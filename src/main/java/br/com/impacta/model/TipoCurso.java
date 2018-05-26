@@ -34,4 +34,8 @@ public enum TipoCurso {
             return null;
         }
     }
+
+    public String getDescricao() {
+        return descricao;
+    }
 }
