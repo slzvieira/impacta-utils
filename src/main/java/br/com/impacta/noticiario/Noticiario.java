@@ -30,7 +30,7 @@ import java.util.Properties;
  */
 public class Noticiario {
 
-	private static final String NOTICIARIO_PROPERTIES = "/noticias.properties";
+	private static final String NOTICIARIO_PROPERTIES = "/properties/noticias.properties";
 
     /** Lista de noticias a ser carregada durante a instanciacao desta classe. */
     private List<String> noticiaList = new ArrayList<String>();
@@ -62,7 +62,7 @@ public class Noticiario {
         try {
 
             Properties properties = new Properties();
-            properties.load(getClass().getResourceAsStream("noticias.properties"));
+            properties.load(getClass().getResourceAsStream(NOTICIARIO_PROPERTIES));
 
             String key = null;
             String noticia = null;

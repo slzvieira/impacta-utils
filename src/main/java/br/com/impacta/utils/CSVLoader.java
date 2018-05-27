@@ -29,10 +29,10 @@ import br.com.impacta.model.Unidade;
 public class CSVLoader {
 
     /** Caminho default do arquivo de cursos. */
-    private static final String LISTA_CURSOS_RESOURCE = "/lista-cursos.csv";
+    private static final String LISTA_CURSOS_RESOURCE = "/data/lista-cursos.csv";
 
     /** Caminho default do arquivo de produtos. */
-    private static final String LISTA_PRODUTOS_RESOURCE = "/lista-produtos.csv";
+    private static final String LISTA_PRODUTOS_RESOURCE = "/data/lista-produtos.csv";
 
     /**
      * Formato do preco dos produtos. Todos os precos contidos no arquivo CSV devem seguir este formato.
@@ -41,7 +41,7 @@ public class CSVLoader {
      *     120,8    23,8    15,75    189,67
      * </pre>
      */
-    private static final DecimalFormat FORMATO_PRECO = new DecimalFormat("#.#");
+    private static final DecimalFormat FORMATO_PRECO = new DecimalFormat("#,##0.#");
 
     /** Instancia singleton desta classe. */
     private static final CSVLoader INSTANCE = new CSVLoader();
